@@ -206,7 +206,7 @@ border-radius: 50%;
 
 
 
-#review-container {
+.review-container {
   padding: 40px 60px;
 }
 
@@ -269,4 +269,9 @@ border-radius: 50%;
   border: 3px solid yellow;
   padding: 20px;
   margin-bottom: 30px;
+}
+
+.valid {
+  height:500px;
+  width: 1300px;
 }
